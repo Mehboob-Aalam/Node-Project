@@ -4,9 +4,11 @@
     "chalk-animation": "^2.0.3",
     "typescript": "^5.1.6"
   },
-  "name": "cli_guess_number_01",
-  "version": "1.2.0",
-  "bin": "./index.js",
+  "name": "number_guess_game_07",
+  "version": "1.0.1",
+  "bin": {
+    "number_guess_game_07": "./index.js"
+  },
   "main": "index.js",
   "devDependencies": {
     "@types/chalk": "^2.2.0",

@@ -6,9 +6,11 @@
     "inquirer": "^9.2.9",
     "typescript": "^5.1.6"
   },
-  "name": "03_todo_list1",
-  "version": "1.0.0",
-  "bin": "./index.js",
+  "name": "todo_list_07",
+  "version": "1.0.1",
+  "bin": {
+    "todo_list_07": "./index.js"
+  },
   "main": "index.js",
   "devDependencies": {
     "@types/chalk": "^2.2.0",

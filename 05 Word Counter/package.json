@@ -1,9 +1,9 @@
 {
-  "name": "05_word_counter_exe",
-  "version": "1.0.0",
+  "name": "word_counter_07",
+  "version": "1.0.1",
   "main": "index.js",
   "bin": {
-    "05-word-counter": "index.js"
+    "word_counter_07": "index.js"
   },
   "type": "module",
   "scripts": {

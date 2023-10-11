@@ -6,10 +6,10 @@
     "random": "^4.1.0",
     "typescript": "^5.1.6"
   },
-  "name": "atm_project_02",
-  "version": "1.0.0",
+  "name": "atm_project_07",
+  "version": "1.0.1",
   "bin": {
-    "atm_project_02": "index.js"
+    "atm_project_07": "index.js"
   },
   "main": "index.js",
   "devDependencies": {

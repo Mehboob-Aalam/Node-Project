@@ -1,10 +1,12 @@
 {
-  "name": "10_oop_practice",
-  "version": "1.1.0",
+  "name": "Practice-02",
+  "version": "1.1.1",
   "description": "",
   "main": "index.js",
   "type": "module",
-  "bin": "./index.js",
+  "bin": {
+    "Practice_02": "./index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

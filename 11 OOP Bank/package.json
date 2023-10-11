@@ -1,10 +1,10 @@
 {
-  "name": "11_oop_bank",
+  "name": "oop_bank_07",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "type":"module",
-  "bin": "./index.js",
+  "bin":{"oop_bank_07": "./index.js"},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

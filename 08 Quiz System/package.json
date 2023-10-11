@@ -1,10 +1,12 @@
 {
-  "name": "08_quiz_system",
-  "version": "1.0.0",
+  "name": "quiz_system_07",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "type": "module",
-  "bin":"./index.js",
+  "bin": {
+    "quiz_system_07": "./index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
